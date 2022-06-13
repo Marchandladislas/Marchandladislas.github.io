@@ -2,3 +2,7 @@
     text-decoration: dashed;
     text-align: center;
 }
+
+body {
+    background-color: firebrick;
+}
